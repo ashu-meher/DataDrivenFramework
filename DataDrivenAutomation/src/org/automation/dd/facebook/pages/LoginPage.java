@@ -40,6 +40,9 @@ public class LoginPage {
 		driver.findElement(By.xpath(Utility.fetchLocatorValue("reg_emailid_xpath"))).sendKeys(EID);
 	}
 	
+	public void enterEmailId1(String EID) throws Exception {
+		driver.findElement(By.xpath(Utility.fetchLocatorValue("reg_emailid_xpath"))).sendKeys(EID);
+	}
 }
 
 
