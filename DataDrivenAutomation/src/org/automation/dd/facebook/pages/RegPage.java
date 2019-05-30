@@ -8,7 +8,8 @@ public class RegPage {
 //		contactUsPage.selectContactsByName("yyyyy");
 //	}
 
-	
+
+
 //	@Test(priority=3)
 //	public void selectMultipleContactPageChecboxTest(){
 //		contactUsPage.selectContactsByName("xxxxx");
